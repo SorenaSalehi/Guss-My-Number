@@ -1,2 +1,2 @@
 # gussMyNumber
- A game for guss number
+ Basic DOM manipulations 
